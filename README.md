@@ -29,8 +29,8 @@ Rescue Tow is a mobile application designed to connect users in need of tow truc
 - **PayPal Integration:**
   - Facilitate secure payment transactions between users and tow truck service providers.
 
-- **React Native:**
-  - Build the mobile app using the React Native framework.
+- **Android Studios:**
+  - Build the mobile app using the Android Studios framework.
 
 ## Project Structure
 
